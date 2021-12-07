@@ -8,7 +8,7 @@ When I'm not writing code, I enjoy playing board games and video games, biking a
 ### What I'm Working On
 
 As I mentioned, I tinker a lot with languages and frameworks, and frequently start small side projects to enhance my own development experience. A few projects
-that I'm particularly proud of and that I use all the time are the [OOPS-WP](https://github.com/webdevstudios/oops-wp) library to bring more object-oriented thinking to WordPress, my [wp-starter](https://github.com/jmichaelward/wp-starter) package that I use to quickly spin up local WordPress sites, and
+that I'm particularly proud of and/or that I still use all the time are the [OOPS-WP](https://github.com/webdevstudios/oops-wp) library to bring more object-oriented thinking to WordPress, my [wp-starter](https://github.com/jmichaelward/wp-starter) package that I use to quickly spin up local WordPress sites, and
 [Dudley](https://github.com/jmichaelward/dudley), a components framework I used to import UI structures that were commonly re-used across site builds. 
 
 In addition to those past projects, I'm also currently tinkering with:
