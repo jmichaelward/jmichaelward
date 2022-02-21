@@ -7,15 +7,16 @@ When I'm not writing code, I enjoy playing board games and video games, biking a
 
 ### What I'm Working On
 
-As I mentioned, I tinker a lot with languages and frameworks, and frequently start small side projects to enhance my own development experience. A few projects
-that I'm particularly proud of and/or that I still use all the time are the [OOPS-WP](https://github.com/webdevstudios/oops-wp) library to bring more object-oriented thinking to WordPress, my [wp-starter](https://github.com/jmichaelward/wp-starter) package that I use to quickly spin up local WordPress sites, and
-[Dudley](https://github.com/jmichaelward/dudley), a components framework I used to import UI structures that were commonly re-used across site builds. 
+Here are a few projects that I'm currently tinkering with:
 
-In addition to those past projects, I'm also currently tinkering with:
-
+- [Short Rest](https://github.com/jmichaelward/short-rest) - a framework for developing custom APIs using WordPress's `SHORTINIT` process.
+- [Contracts-WP](https://github.com/jmichaelward/contracts-wp) - a library of simple PHP interfaces to import into WordPress projects.
+- [Abstracts-WP](https://github.com/jmichaelward/abstracts-wp) - a library of abstract classes to quickly scaffold common WordPress structures.
 - [Into the Void](https://github.com/jmichaelward/into-the-void) - a WordPress API-based micro-blogging plugin, the primary goal of which is for me to develop an iOS client using Apple's Swift language.
-- [Order Up](https://github.com/jmichaelward/bga-orderup) - a Board Game Arena implementation of a game designed by my friend, Ryan Harris.
-- [learn-node](https://github.com/jmichaelward/learn-node) - a landing spot for my code commits as I dig into learning how to build apps with Node.js.
+
+In addition to these current projects, here are a few previous projects I've enjoyed creating:
+- [OOPS-WP](https://github.com/webdevstudios/oops-wp) - a library to bring object-oriented approaches to the WordPress community.
+- [Dudley](https://github.com/jmichaelward/dudley) - a resuable components framework to populate frontend markup with WordPress data sources.
 
 ### What I Want To Learn
 
@@ -28,17 +29,22 @@ of useful ideas for what to dig into next if I'm unsure about what I need to kno
 Otherwise, if you dig through [my repositories](https://github.com/jmichaelward?tab=repositories), you'll see some public examples of my interests,
 including Python, Node, React, Docker, Bash, and more.
 
-Having worked with WordPress for so many years, and gaining continually more comfortable with the ecosystem in my day-to-day, I'm extremely passionate about dev tooling and figuring out ways to make redundant tasks more enjoyable. Therefore, I'm also excited to learn about CLI tools, software architecture, and approaches to problem solving that help me reshape the way I think. In the spring of 2021, I began participating in the [Dev Book Club](https://devbookclub.org), where we read 
-[Refactoring: 2nd Edition](https://martinfowler.com/books/refactoring.html) by Martin Fowler.
+Having worked with WordPress for so many years, and gaining continually more comfortable with the ecosystem in my 
+day-to-day, I'm extremely passionate about dev tooling and figuring out ways to make redundant tasks more enjoyable. 
+Therefore, I'm also excited to learn about CLI tools, software architecture, and approaches to problem solving that 
+help me reshape the way I think. In the spring and early summer of 2021, I participated in the 
+[Dev Book Club](https://devbookclub.org), where we read [Refactoring: 2nd Edition](https://martinfowler.com/books/refactoring.html) by Martin Fowler.
 
 ### Want to Work on Something Together?
 
-Interested in collaborating? I'm particularly interested in contributing to open-source projects that meet a need for the broader community, and especially if it's something that enables me to learn new skills. Drop me a line via one of the links below!
+Do you like to collaborate? I'm interested in contributing to open-source projects that meet a need for the broader 
+community, and especially if it's something that enables me to learn new skills. Drop me a line via one of the links below!
 
 ### Links
 
-Most of what you need to find me are already on the sidebar here, but just for the sake of completeness, here are some other places online where you can find me:
+Most of what you need to find me are already on the sidebar here, but just for the sake of completeness, here are some
+other places online where you can find me:
 
 - [My website](https://jmichaelward.com), where I write semi-frequently about development-related topics.
-- [Twitch](https://twitch.tv/jmichaelward), where I'm slowly getting acclimated to live coding, but also play a bunch of Rocket League.
 - [Twitter](https://twitter.com/_jmichaelward), where I attempt a mix of trying to be funny, sharing useful tech links, and yelling at clouds.
+- [Twitch](https://twitch.tv/jmichaelward), where I'm slowly getting acclimated to live coding, but also play a bunch of Rocket League.
