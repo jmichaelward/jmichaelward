@@ -39,12 +39,3 @@ help me reshape the way I think. In the spring and early summer of 2021, I parti
 
 Do you like to collaborate? I'm interested in contributing to open-source projects that meet a need for the broader 
 community, and especially if it's something that enables me to learn new skills. Drop me a line via one of the links below!
-
-### Links
-
-Most of what you need to find me are already on the sidebar here, but just for the sake of completeness, here are some
-other places online where you can find me:
-
-- [My website](https://jmichaelward.com), where I write semi-frequently about development-related topics.
-- [Twitter](https://twitter.com/_jmichaelward), where I attempt a mix of trying to be funny, sharing useful tech links, and yelling at clouds.
-- [Twitch](https://twitch.tv/jmichaelward), where I'm slowly getting acclimated to live coding, but also play a bunch of Rocket League.
